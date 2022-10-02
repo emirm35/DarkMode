@@ -1,0 +1,11 @@
+.darkTheme { 
+/*Karanlık mod aktif olunca bu class devreye girecek*/
+    background: rgb(32, 32, 32);   
+    color: white;
+}
+
+body {
+
+  margin: 100px;
+  
+}
